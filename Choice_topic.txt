@@ -1,9 +1,0 @@
-https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
-https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
-https://www.kaggle.com/kumarajarshi/life-expectancy-who
-https://www.kaggle.com/unitednations/global-commodity-trade-statistics
-https://www.kaggle.com/sidtwr/videogames-sales-dataset
-https://www.kaggle.com/zaurbegiev/my-dataset?select=credit_train.csv
-https://www.kaggle.com/selfvivek/environment-impact-of-food-production
-https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
-https://www.kaggle.com/mmattson/who-national-life-expectancy
