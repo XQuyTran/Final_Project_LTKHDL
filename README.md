@@ -5,4 +5,4 @@ Thành Viên:
 
 Trần Hữu Chí Bảo - https://github.com/baocl18ctt2
 
-Trần Xuân Quý - 
+Trần Xuân Quý - https://github.com/XQuyTran
